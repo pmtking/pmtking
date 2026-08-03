@@ -1,139 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:1E1B4B,50:4F46E5,75:7C3AED,100:06B6D4&text=MOHAMMAD%20TAHERI&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:020617,35:312E81,70:7C3AED,100:06B6D4&text=MOHAMMAD%20TAHERI&fontSize=80&fontColor=FFFFFF&animation=fadeIn"/>
 
-<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+PRODUCT+ENGINEER;SOFTWARE+ARCHITECT;COMPUTER+VISION+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS"/>
+<br>
 
-<br/><br/>
 
-<img src="https://img.shields.io/badge/AI-ENGINEERING-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PRODUCT-BUILDER-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM-ARCHITECT-10B981?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=32&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+PRODUCT+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;SOFTWARE+ARCHITECT;COMPUTER+VISION+ENGINEER;PRODUCT+BUILDER"/>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohammadtaheri&style=for-the-badge&color=8B5CF6"/>
+<br><br>
+
+
+<img src="https://img.shields.io/badge/AI%20ENGINEER-8B5CF6?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/ARCHITECT-06B6D4?style=for-the-badge&logo=architecture"/>
+
+<img src="https://img.shields.io/badge/BUILDER-10B981?style=for-the-badge&logo=rocket"/>
+
 
 </div>
 
 
----
-
-# 🧠 WHO AM I?
-
-
-<table>
-<tr>
-
-<td width="60%">
-
-
-## Mohammad Taheri
-
-### AI Product Engineer
-
-
-I create intelligent software products by combining:
-
-
-```
-Artificial Intelligence
-
-        +
-
-Software Architecture
-
-        +
-
-Modern Engineering
-
-        +
-
-Product Thinking
-```
-
-
-My mission:
-
-> Build scalable technology that creates real-world impact.
-
-
-</td>
-
-
-<td width="40%">
-
-
-```yaml
-PROFILE:
-
-role:
-  - AI Engineer
-  - Software Architect
-  - Product Builder
-
-
-FOCUS:
-
-  - Computer Vision
-  - Machine Learning
-  - LLM Systems
-  - SaaS Architecture
-
-
-VISION:
-
-  "Build the future
-   with intelligent systems"
-```
-
-
-</td>
-
-
-</tr>
-</table>
-
-
----
-
-# ⚡ ENGINEERING DNA
+<br>
 
 
 <div align="center">
 
 
-```mermaid
-flowchart LR
-
-
-AI[🧠 Artificial Intelligence]
-
-DATA[📊 Data Intelligence]
-
-CODE[💻 Software Engineering]
-
-
-AI --> PRODUCT[🚀 Intelligent Products]
-
-DATA --> PRODUCT
-
-CODE --> PRODUCT
-
-
-PRODUCT --> WEB[🌐 Web Platforms]
-
-PRODUCT --> MOBILE[📱 Mobile Apps]
-
-PRODUCT --> CLOUD[☁️ Cloud Systems]
-
-PRODUCT --> SAAS[💼 SaaS Products]
-
+## 🧠 Creating Intelligent Products
 
 ```
-
+AI  +  Architecture  +  Engineering  =  Impact
+```
 
 </div>
 
@@ -141,7 +40,7 @@ PRODUCT --> SAAS[💼 SaaS Products]
 ---
 
 
-# 🚀 FEATURED PRODUCTS
+# 🪐 Identity Card
 
 
 <table>
@@ -149,91 +48,64 @@ PRODUCT --> SAAS[💼 SaaS Products]
 <tr>
 
 
-<td width="33%">
+<td width="50%">
 
 
-## ✨ BeautyAI
+<img src="https://img.shields.io/badge/PROFILE-AI%20PRODUCT%20ENGINEER-8B5CF6?style=for-the-badge"/>
 
 
-### AI Beauty Intelligence
+<br><br>
 
 
-```
-Computer Vision
+I design and build:
 
-+
-
-AI Generation
-
-+
-
-Face Analysis
-```
+<br>
 
 
-Status:
+🧠 AI Systems
 
-🟢 Building
+<br>
 
+🌐 Scalable Platforms
 
-</td>
+<br>
 
+📱 Intelligent Applications
 
-<td width="33%">
+<br>
 
-
-## 🏥 MedLink
-
-
-### Healthcare AI Platform
-
-
-```
-Clinic System
-
-+
-
-Medical Data
-
-+
-
-AI Assistance
-```
-
-
-Status:
-
-🟢 Building
+☁️ Cloud Infrastructure
 
 
 </td>
 
 
-<td width="33%">
+
+<td width="50%">
 
 
-## ⚡ LifeOS
+<img src="https://img.shields.io/badge/STATUS-ONLINE-10B981?style=for-the-badge"/>
 
 
-### Personal AI OS
+<br><br>
 
 
+```yaml
+Currently:
+
+building:
+  - BeautyAI
+  - MedLink
+  - LifeOS
+
+research:
+  - Computer Vision
+  - LLM
+  - AI Agents
+
+mission:
+  Build the future
 ```
-Planning
-
-+
-
-Habits
-
-+
-
-AI Assistant
-```
-
-
-Status:
-
-🟢 Building
 
 
 </td>
@@ -244,156 +116,56 @@ Status:
 </table>
 
 
+
 ---
 
 
-# 🏗 SYSTEM ARCHITECTURE
+# 🧬 Neural Engineering DNA
+
+
+<div align="center">
 
 
 ```mermaid
 flowchart TB
 
 
-USER((👤 User))
+INPUT[🌎 Real World Problems]
 
 
-APP[🌐 Applications]
+AI[🧠 Artificial Intelligence]
 
 
-API[⚙️ Backend Services]
+DATA[📊 Data Intelligence]
 
 
-AI[🧠 AI Engine]
+CODE[💻 Software Engineering]
 
 
-DATA[(Database)]
+ARCH[🏗 Architecture]
 
 
-CLOUD[☁️ Cloud Infrastructure]
+PRODUCT[🚀 Intelligent Products]
 
 
-USER --> APP
+INPUT --> AI
 
-APP --> API
+INPUT --> DATA
 
-API --> AI
+INPUT --> CODE
 
-API --> DATA
 
-API --> CLOUD
+AI --> PRODUCT
 
-```
+DATA --> PRODUCT
 
+CODE --> ARCH
 
----
+ARCH --> PRODUCT
 
 
-# 🧩 TECHNOLOGY UNIVERSE
+PRODUCT --> USERS[✨ Global Users]
 
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,nestjs,docker,linux,mongodb,postgres,redis,aws"/>
-
-
-</div>
-
-
-<br/>
-
-
-## 🧠 Artificial Intelligence
-
-
-```
-Machine Learning
-
-Deep Learning
-
-Computer Vision
-
-NLP
-
-LLM Applications
-
-AI Agents
-
-Data Processing
-```
-
-
-
-## 🌐 Software Engineering
-
-
-```
-Next.js
-
-React
-
-TypeScript
-
-Node.js
-
-GraphQL
-
-Microservices
-
-REST API
-```
-
-
-
-## ☁️ Infrastructure
-
-
-```
-Docker
-
-Linux
-
-Nginx
-
-Cloud
-
-CI/CD
-
-Distributed Systems
-```
-
-
----
-
-
-# 🛠 BUILDING PROCESS
-
-
-<div align="center">
-
-
-```
-        IDEA
-
-          ↓
-
-    ARCHITECTURE
-
-          ↓
-
-        CODE
-
-          ↓
-
-    INTELLIGENCE
-
-          ↓
-
-       PRODUCT
-
-          ↓
-
-        IMPACT
 
 ```
 
@@ -401,155 +173,387 @@ Distributed Systems
 </div>
 
 
+
 ---
 
 
-# 📈 ENGINEERING JOURNEY
+# 🚀 Product Universe
+
+
+<table>
+
+
+<tr>
+
+
+<td align="center" width="33%">
+
+
+# ✨ BeautyAI
+
+
+<img src="https://img.shields.io/badge/AI%20VISION-Platform-8B5CF6?style=for-the-badge"/>
+
+
+<br><br>
+
+
+🧠 Face Understanding
+
+<br>
+
+🎨 AI Simulation
+
+<br>
+
+👁 Computer Vision
+
+
+<br><br>
+
+
+```
+Image
+ ↓
+AI Model
+ ↓
+Result
+```
+
+
+</td>
+
+
+
+<td align="center" width="33%">
+
+
+# 🏥 MedLink
+
+
+<img src="https://img.shields.io/badge/HEALTHCARE-AI-06B6D4?style=for-the-badge"/>
+
+
+<br><br>
+
+
+🏥 Clinic System
+
+<br>
+
+🧬 Medical Data
+
+<br>
+
+🤖 AI Assistant
+
+
+<br><br>
+
+
+```
+Patient
+ ↓
+Doctor
+ ↓
+AI
+```
+
+
+</td>
+
+
+
+<td align="center" width="33%">
+
+
+# ⚡ LifeOS
+
+
+<img src="https://img.shields.io/badge/PERSONAL-AI-10B981?style=for-the-badge"/>
+
+
+<br><br>
+
+
+🎯 Goals
+
+<br>
+
+🔥 Habits
+
+<br>
+
+📅 Planning
+
+
+<br><br>
+
+
+```
+Life Data
+ ↓
+AI
+ ↓
+Better Life
+```
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+
+---
+
+
+# 🏗 Cloud + AI Architecture
+
+
+<div align="center">
 
 
 ```mermaid
 flowchart LR
 
 
-A[2022 🚀 Software Development]
+USER((👤 USER))
 
--->
 
-B[2023 🌐 Full Stack Engineering]
+APP[🌐 Next.js / Mobile]
 
--->
 
-C[2024 🧠 AI Engineering]
+API[⚙️ API Gateway]
 
--->
 
-D[2025+ 🌍 AI Product Building]
+SERVICE[🧩 Services]
+
+
+AI[🧠 AI Engine]
+
+
+DB[(Database)]
+
+
+CLOUD[☁️ Cloud]
+
+
+USER --> APP
+
+APP --> API
+
+API --> SERVICE
+
+SERVICE --> AI
+
+SERVICE --> DB
+
+SERVICE --> CLOUD
+
 
 ```
 
 
+</div>
+
+
+
 ---
 
 
-# 🎯 CURRENT MISSION
+# 🧪 AI Research Lab
 
 
 <div align="center">
 
 
-## Building AI Products That Matter
+<table>
+
+<tr>
+
+<td>
+
+🧠 Machine Learning
+
+</td>
+
+
+<td>
+
+👁 Computer Vision
+
+</td>
+
+
+<td>
+
+🤖 LLM Agents
+
+</td>
+
+
+<td>
+
+⚡ Automation
+
+</td>
+
+
+</tr>
+
+</table>
 
 
 </div>
 
 
 
-```json
-{
-
-"building":[
-
-"BeautyAI",
-
-"MedLink",
-
-"LifeOS",
-
-"KPM CLI"
-
-],
+---
 
 
-"research":[
-
-"Artificial Intelligence",
-
-"Computer Vision",
-
-"LLM",
-
-"AI Agents"
-
-],
+# 🛠 Technology Galaxy
 
 
-"vision":
+<div align="center">
 
-"Create globally scalable intelligent technology"
 
-}
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,typescript,nextjs,react,nodejs,nestjs,docker,linux,mongodb,postgres,redis,aws"/>
+
+
+</div>
+
+
+<br>
+
+
+<table>
+
+<tr>
+
+<td>
+
+
+## AI CORE
+
+```
+Python
+PyTorch
+TensorFlow
+OpenCV
+LLM
+ML
+DL
 ```
 
 
+</td>
+
+
+<td>
+
+
+## SOFTWARE
+
+```
+Next.js
+React
+TypeScript
+Node.js
+GraphQL
+Microservices
+```
+
+
+</td>
+
+
+<td>
+
+
+## CLOUD
+
+```
+Docker
+Linux
+Nginx
+AWS
+CI/CD
+Distributed Systems
+```
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+
 ---
 
 
-# 📊 GITHUB ANALYTICS
+# 📡 Developer Dashboard
 
 
 <div align="center">
 
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=mohammadtaheri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadtaheri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtaheri&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtaheri&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
 
-<br/><br/>
+<br>
 
 
-<img src="https://streak-stats.demolab.com/?user=mohammadtaheri&theme=tokyonight&hide_border=true&background=020617"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadtaheri&theme=tokyonight&no-frame=true&row=1"/>
 
 
 </div>
 
 
+
 ---
 
 
-# 🌎 CONNECT
+# 🐍 Contribution Activity
 
 
 <div align="center">
 
 
-<a href="https://github.com/mohammadtaheri">
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-<a href="https://linkedin.com">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 
 </div>
 
 
+
 ---
 
 
 <div align="center">
 
 
-## ⚡ BUILD
+# ⚡ BUILD
 
-## 🧠 CREATE
+# 🧠 THINK
 
-## 🚀 SCALE
-
-
-<br/>
+# 🚀 SCALE
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,50:4F46E5,100:020617&section=footer"/>
+<br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06B6D4,50:7C3AED,100:020617&section=footer"/>
 
 
 </div>
